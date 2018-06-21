@@ -2,3 +2,9 @@
 WP Plugin to display APOD from NASA, using both shortcode and Gutenberg block
 
 This plugin was built to explore building a fairly basic plugin, using the Gutenberg Block system as well as the old shortcode API.
+
+## Sources:
+
+[Developer WordPress.org: WP CLI commands scaffold block](https://developer.wordpress.org/cli/commands/scaffold/block/)
+
+[Pantheon: How to Convert Shortcode to Gutenberg Block](https://pantheon.io/blog/how-convert-shortcode-gutenberg-block)
