@@ -9,6 +9,8 @@ The following helped with building this plugin
 
 [NASA's APOD API](https://api.nasa.gov/api.html#apod)
 
+[Gutenberg Handbook: Create a block inside a plugin with WP CLI](https://wordpress.org/gutenberg/handbook/blocks/generate-blocks-with-wp-cli/#create-a-block-inside-the-plugin)
+
 [Developer WordPress.org: WP CLI commands scaffold block](https://developer.wordpress.org/cli/commands/scaffold/block/)
 
 [Pantheon: How to Convert Shortcode to Gutenberg Block](https://pantheon.io/blog/how-convert-shortcode-gutenberg-block)
