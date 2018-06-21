@@ -68,9 +68,9 @@ function apod_revised_display( $atts ) {
 
 	$title = $apod_data->title;
 
-	$to_return = "<div>
-	<h3>$title ($date)</h3>
-	<p>$description</p>
+	$to_return = "<div class='apod_revised_container'>
+	<h3 class='apod_revised_title'>$title ($date)</h3>
+	<p class='apod_revised_description'>$description</p>
 	<a href='$hd_img_url' target='_blank'><img class='apod_revised_img' src='$img_url'></a>
 	</div>";
 
